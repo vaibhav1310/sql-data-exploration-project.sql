@@ -1,4 +1,4 @@
-           #  SQL Data Exploration
+ #  SQL Data Exploration
 
 -- select data that we are going to be using 
 
